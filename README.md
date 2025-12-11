@@ -212,10 +212,3 @@ This project is completely free to use, modify, or integrate into your personal 
 
 Created by Khalif
 
-If you want, I can also add:
-✔ Version with screenshots
-✔ Developer documentation
-✔ API documentation (Doxygen)
-✔ Release build packaging
-
-⸻
